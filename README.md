@@ -1,0 +1,1 @@
+To set this up, first make sure npm is installed globally on your device. After unzipping these files, open them inside VS Code and run the command in the terminal < npm install > Then, cd into Yapller using the command < cd Yapller > and then run the same command in the terminal < npm install > To start vite, just run < npm run dev > and open the link to see the project live.
